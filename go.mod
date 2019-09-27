@@ -1,4 +1,4 @@
-module github.com/mjibson/goon
+module github.com/psfutada/goon
 
 go 1.9
 
